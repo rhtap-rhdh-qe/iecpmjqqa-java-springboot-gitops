@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iecpmjqqa-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/iecpmjqqa-java-springboot-gitops
